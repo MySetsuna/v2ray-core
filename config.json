@@ -1,0 +1,17 @@
+{
+    "inbounds": [{
+      "port": 9995,
+      "protocol": "vmess",
+      "settings": {
+        "clients": [
+          {
+            "id": "mysetsuna"
+          }
+        ]
+      }
+    }],
+    "outbounds": [{
+      "protocol": "freedom",
+      "settings": {}
+    }]
+  }
